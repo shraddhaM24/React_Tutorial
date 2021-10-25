@@ -9,4 +9,5 @@
  - JSX attributes
  - Inline css
  - Components
+ - Export multiple function in one file
   
